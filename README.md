@@ -16,7 +16,7 @@ Inicialmente o projeto é apenas um layout de calculadora. Porem, receberá func
 
 Quer conferir como ficou a calculadora? 
 
-[Visite o projeto online](https://eltonprado.github.io/Projeto10_JogoDaAdivinhacao/)
+[Visite o projeto online](https://eltonprado.github.io/BoraCodar_Desafio05_Calculadora/)
 
 <br>
 
